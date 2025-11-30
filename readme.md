@@ -25,29 +25,8 @@ O objetivo deste projeto é treinar a lógica de desenvolvimento de sistemas com
 ---
 
 ## Estrutura do Projeto
-CRUD_GP/
-│
-├── back/ # Back-end
-│ ├── api/
-│ │ └── router/
-│ │ └── router.php # Ponto de entrada da API
-│ ├── controllers/
-│ │ └── PessoaController.php
-│ ├── models/
-│ │ └── Crud_data_base.php
-│ └── security/
-│ ├── detectsqlinjection.php
-│ ├── detectxss.php
-│ └── sanitizeinput.php
-│
-├── front/ # Front-end
-│ ├── public/
-│ │ ├── index.php
-│ │ ├── css/
-│ │ │ └── styles.css
-│ │ └── js/
-│ │ ├── app.js
-│ │ └── front.js
+<img width="214" height="534" alt="{F76C7F58-DDD9-4B49-8EE1-9B18B99C5B7C}" src="https://github.com/user-attachments/assets/988698fc-adab-4301-b15c-ca84185c02c5" />
+
 
 
 ---
