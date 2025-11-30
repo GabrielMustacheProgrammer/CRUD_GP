@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Página principal -->
+    <url>
+        <loc>http://localhost/CRUD_GP/front/public/index.php</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Recursos da API RESTful -->
+    <url>
+        <loc>http://localhost/CRUD_GP/back/api/router/router.php?resource=pessoa</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
